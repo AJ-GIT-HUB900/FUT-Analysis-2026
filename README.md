@@ -1,7 +1,7 @@
 EA FC 26 Analytics and Tactical Suite
 Overview of Analysis 
 This repository contains a comprehensive data analytics and tactical management suite developed for EA FC 26. The project leverages Python-based data science libraries to provide deep insights into player statistics, market trends, and team optimization through a series of interactive web applications.
-
+  
 Key Features
 Global Player Scouting
 An interactive database that allows users to filter over 17,000 players based on specific attributes, playstyles, and ratings. It utilizes data visualization via radar charts to compare player performance profiles across six core dimensions.
