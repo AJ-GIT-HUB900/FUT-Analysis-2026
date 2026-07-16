@@ -1,5 +1,5 @@
 EA FC 26 Analytics and Tactical Suite
-Overview
+Overview of Analysis 
 This repository contains a comprehensive data analytics and tactical management suite developed for EA FC 26. The project leverages Python-based data science libraries to provide deep insights into player statistics, market trends, and team optimization through a series of interactive web applications.
 
 Key Features
